@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am Ramana Heggadal Math and I love data, AI, and full-stack development.
 
 I graduated with an MS in Data Science (CSE Focus) from **Texas A&M University**.
