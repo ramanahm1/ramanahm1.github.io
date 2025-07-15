@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ramana Heggadal Math"
-  pronouns         : # example: "she/her"  
-  bio              : "Data, LLMs, MLOps"
+  pronouns         : "He/Him"  
+  bio              : "Data Science, LLMs, MLOps"
   location         : "College Station, Texas"
-  employer         : "Texas A&M AgriLife, ENDEAVR Institute"
+  employer         : "Texas A&M AgriLife"
   uri              : # URL
   email            : "hm1ramana@gmail.com" 
 
@@ -59,7 +59,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "ramana_h_m"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "ramanahm"
   mastodon         : # URL
