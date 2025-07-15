@@ -23,9 +23,9 @@ repository               : "ramanahm1/ramanahm1.github.io"
 author:
   # Biographic information
   avatar           : "ramana_profile.jpeg"
-  name             : "Ramana Heggadal Math"
-  pronouns         : "He/Him"  
-  bio              : "Data Science | LLMs | MLOps"
+  name             : "Ramana Heggadal Math" 
+  bio              : "ML Engineer of 4 Years"
+  pronouns         : "He/Him" 
   location         : "College Station, Texas"
   employer         : "Texas A&M AgriLife"
   uri              : # URL

@@ -38,7 +38,7 @@ permalink: /work-experience/
 
 ---
 
-Software Development Engineer - 2 @ *Surya Software* 
+## Software Development Engineer - 2 @ *Surya Software* 
 
 **January, 2019 – September, 2021**
 
