@@ -20,3 +20,7 @@ Outside of my professional work, I enjoy playing the violin, experimenting with 
 I’m also fascinated by how design and simplicity can transform user experiences.
 
 Please visit my **Work Experience**, **Research**, and **Projects** sections to learn more.
+
+## Quick Links:
+- [Satellite-based Crop Management System](https://github.com/saranshagarwal202/Satellite_based_crop_monitoring_system)
+- [Multimodal Video-Grounded Translation (Vision-Language)](https://github.com/kruthvik007/multilingual-video-grounding/tree/main)
